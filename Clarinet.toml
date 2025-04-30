@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.gameweave-passport]
+path = "contracts/gameweave-passport.clar"
+depends_on = []
+
 [contracts.gameweave-registry]
 path = "contracts/gameweave-registry.clar"
 depends_on = []
